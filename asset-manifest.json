@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/islamictimeline_v3/static/css/main.afdf3a48.chunk.css",
+    "main.js": "/islamictimeline_v3/static/js/main.c70d1e8e.chunk.js",
+    "main.js.map": "/islamictimeline_v3/static/js/main.c70d1e8e.chunk.js.map",
+    "runtime-main.js": "/islamictimeline_v3/static/js/runtime-main.0d64af3a.js",
+    "runtime-main.js.map": "/islamictimeline_v3/static/js/runtime-main.0d64af3a.js.map",
+    "static/js/2.f328ca2a.chunk.js": "/islamictimeline_v3/static/js/2.f328ca2a.chunk.js",
+    "static/js/2.f328ca2a.chunk.js.map": "/islamictimeline_v3/static/js/2.f328ca2a.chunk.js.map",
+    "index.html": "/islamictimeline_v3/index.html",
+    "static/css/main.afdf3a48.chunk.css.map": "/islamictimeline_v3/static/css/main.afdf3a48.chunk.css.map",
+    "static/js/2.f328ca2a.chunk.js.LICENSE.txt": "/islamictimeline_v3/static/js/2.f328ca2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d64af3a.js",
+    "static/js/2.f328ca2a.chunk.js",
+    "static/css/main.afdf3a48.chunk.css",
+    "static/js/main.c70d1e8e.chunk.js"
+  ]
+}
