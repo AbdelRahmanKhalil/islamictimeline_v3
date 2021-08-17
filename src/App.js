@@ -26,7 +26,7 @@ function App() {
     image="/img-7.jpg" />
     <HeroSection title="Ummayads Rise To Power"
     paragraph="Muawiyah ibn Abi Sufyan becomes the first Umayyad Caliph after the peace treaty with Hassan ibn Ali, grandson of the Prophet Muhammad and last caliph in Rashidun Caliphate."
-    image="/img-8.png" />
+    image="/img-8.jpg" />
     <HeroSection title="The Battle Of Karbala"
     paragraph="Husayn ibn Ali, the grandson of Prophet Muhammad, is killed in the battle of Karbala, a day remembered by Shia Muslims to this day."
     image="/img-9.jpg" />
