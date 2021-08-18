@@ -60,6 +60,9 @@
         font-size: 50px;
         
     }
+    .hero-container{
+        overflow-x: hidden !important;
+    }
     .hero-container > p{
         font-size: 21px;
     }
