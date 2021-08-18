@@ -79,7 +79,7 @@ function App() {
     paragraph='Al-Farabi is born in Greater Khorasan (modern day Afghanistan). In Islamic philosophical tradition, he is often called "the Second Teacher", Aristotle being the first. His commentaries and treatises on Aristotle and Plato influenced many prominent philosophers like Ibn Sina Avicenna.'
     image="/img-25.jpg" />
     <HeroSection title="The Greatest Caliph Of Andalus"
-    paragraph="Abd al-Rahman III rise to power in Andalus. It's said that he was the greatest of the Umayyad rulers of Andalus. He's known for his quote: I have now reigned above fifty years in victory or peace; beloved by my subjects, dreaded by my enemies, and respected by my allies. Riches and honors, power and pleasure, have waited on my call, nor does any earthly blessing appear to have been wanting to my felicity. In this situation, I have diligently numbered the days of pure and genuine happiness which have fallen to my lot: they amount to Fourteen: - O man! Place not thy confidence in this present world!"
+    paragraph="Abd al-Rahman III rise to power in Andalus. It's said that he was the greatest of the Umayyad rulers of Andalus. He's known for his quote: I have now reigned above fifty years in victory or peace; beloved by my subjects, dreaded by my enemies, and respected by my allies. Riches and honors, power and pleasure, have waited on my call, nor does any earthly blessing appear to have been wanting to my felicity. In this situation, I have diligently numbered the days of pure and genuine happiness which have fallen to my lot."
     image="/img-26.jpg" />
     <HeroSection title="The Most Celebrated Of Poets"
     paragraph="Al-Mutanabbi best Arabic poet of all time is born in Kufa. His most prolific work comes when he's patronised by Sayf al-Dawla Emir of Aleppo."
@@ -100,7 +100,7 @@ function App() {
     paragraph="Al-Moravids are the first the Berber Muslim Dynasty in West Africa. They've taken Marrakech as their capital which was founded by their most prominent Sultan Yusuf Ibn Tashfin who at the time got legitimacy by getting the permission of Abbasid Caliph to rule west Africa."
     image="/img-32.jpg" />
     <HeroSection title="Al-Ghazali Reviivng The Religion And Attacking Philosophers"
-    paragraph='Al-Ghazali is born in Tus, one of the most prominent thrologians and jurists in the history of Islam. Among many books, two books stand out. In the east, "The Revival of the Religious Sciences" is considered the most notable of his work and is still studied in Halaqs to this day. In the west, "The Incoherence of the Philosophers" is the most well-known book, where he refutes many arguments of the great Philosopher Ibn Sina.'
+    paragraph='Al-Ghazali is born in Tus, one of the most prominent thrologians and jurists in the history of Islam. Among many books, two books stand out. In the east, "The Revival of the Religious Sciences" is considered the most notable of his work and is still studied in Halaqs to this day. In the west, "The Incoherence of the Philosophers" is the most well-known book.'
     image="/img-33.jpg" />
     <HeroSection title="The Persian Bureaucrat"
     paragraph="Nizam al-Mulk becomes vizier of the Seljuk Empire, he was the first person to start the madrasa system called Nizamiyeh, first well organized institutions of higher learning in the Muslim world, at the time. Nizam al-Mulk asks Al-Ghazali to lead it."
@@ -136,7 +136,7 @@ function App() {
     paragraph="The Greatest Sultan Baibars rise to power."
     image="/img-44.jfif" />
     <HeroSection title="Shaykh al-Islam Ibn Taymiyyah"
-    paragraph="Ibn Taymiyyah is probably the most influential scholar of Islam since Al-Ghazali. A Hanbali jurist, muhaddith, and theologian, he's considered a mujaddid. He participated in rallying the troops in the battles against the mongols and was imprisoned seven times for contraversial fatwas. He wrote treaties on almost every Islamic science from the attributes of Allah to 'Averting the Conflict between Reason and (religious) Tradition' and a refutation of the christian doctrine and fanaa' al-Nar (the end of hellfire) and politics (Al-Siyasah al-Shar’iyah)."
+    paragraph="Ibn Taymiyyah is probably the most influential scholar of Islam since Al-Ghazali. A Hanbali jurist, muhaddith, and theologian, he's considered a mujaddid. He participated in rallying the troops in the battles against the mongols and was imprisoned seven times for contraversial fatwas. He wrote treaties on almost every Islamic science from the attributes of Allah to 'Averting the Conflict between Reason and (religious) Tradition' ."
     image="/img-45.jpg" />
     <HeroSection title="Richest Man Ever"
     paragraph="Mansy Musa"
