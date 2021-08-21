@@ -7,11 +7,11 @@ export default class HeroSection extends Component {
         
         let background;
         if (this.props.image != null) {
-            background = <img src={this.props.image} alt=""/>;
+            background = <img src={this.props.image} alt=""/>
         } else if (this.props.video != null) {
-            background = <video src={this.props.video} autoPlay loop muted />;
+            background = <video src={this.props.video} autoPlay loop muted />
         } else {
-            background = <video src="intro.mp4" autoPlay loop muted />
+            background = <img src="/img-0.jpg" alt=""/>
         }
         console.log(background)
         return (
