@@ -13,7 +13,7 @@
     "serve": "^12.0.0",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "http://islamictimelinev2.s3-website.eu-west-3.amazonaws.com/",
+  "homepage": "https://abdelrahmankhalil.github.io/islamictimeline_v3/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
