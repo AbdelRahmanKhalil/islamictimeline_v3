@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/islamictimeline_v3/static/css/main.ec76ff2d.chunk.css",
-    "main.js": "/islamictimeline_v3/static/js/main.37cd8229.chunk.js",
-    "main.js.map": "/islamictimeline_v3/static/js/main.37cd8229.chunk.js.map",
+    "main.js": "/islamictimeline_v3/static/js/main.ac94299b.chunk.js",
+    "main.js.map": "/islamictimeline_v3/static/js/main.ac94299b.chunk.js.map",
     "runtime-main.js": "/islamictimeline_v3/static/js/runtime-main.030ea5e8.js",
     "runtime-main.js.map": "/islamictimeline_v3/static/js/runtime-main.030ea5e8.js.map",
     "static/js/2.7507c9e9.chunk.js": "/islamictimeline_v3/static/js/2.7507c9e9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.030ea5e8.js",
     "static/js/2.7507c9e9.chunk.js",
     "static/css/main.ec76ff2d.chunk.css",
-    "static/js/main.37cd8229.chunk.js"
+    "static/js/main.ac94299b.chunk.js"
   ]
 }
