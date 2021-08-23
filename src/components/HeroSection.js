@@ -2,12 +2,15 @@ import '../App.css';
 import './HeroSection.css';
 import React, { Component } from 'react'
 
+
 export default class HeroSection extends Component {
     render() {
         
         let background;
         if (this.props.image != null) {
-            background = <img src={this.props.image} alt=""/>
+            const img_path = process.env.PUBLIC_URL + this.props.image
+            console.log(img_path)
+            background = <img src={img_path} alt=""/>
         } else if (this.props.video != null) {
             background = <video src={this.props.video} autoPlay loop muted />
         } else {
